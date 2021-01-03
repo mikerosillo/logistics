@@ -9,7 +9,7 @@ body {
     width: 100%;
     height: 100vh;
     background: url(../home.png);
-    background-position: center;
+    background-position: unset !important;
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;

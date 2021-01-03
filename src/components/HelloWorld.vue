@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
-    <h1>Logistics</h1>
+    <h1>Your Single Source Logistics Solution</h1>
     
   </div>
 </template>

@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">What we do</router-link> |
-      <router-link to="/about">About us</router-link>
+      <router-link to="/">WHAT WE DO</router-link> |
+      <router-link to="/about">WHO WE ARE</router-link>
     </div>
     <router-view/>
   </div>
@@ -14,7 +14,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #1e2a36;
 }
 
 #nav {
@@ -22,10 +22,10 @@
 
   a {
     font-weight: bold;
-    color: #2c3e50;
+    color: #1e2a36;
 
     &.router-link-exact-active {
-      color: #42b983;
+      color: #ffffff;
     }
   }
 }

@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <!--<img alt="Vue logo" src="../assets/logo.png">-->
-    <HelloWorld msg="passing props this is a prop of a component"/>
+    <HelloWorld />
   </div>
 </template>
 
