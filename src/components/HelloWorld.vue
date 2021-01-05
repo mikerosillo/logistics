@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Your Single Source Logistics Solution</h1>
+    <h1 class="fade-in">Your Single Source Logistics Solution</h1>
     
   </div>
 </template>

@@ -9,6 +9,13 @@ import './assets/style/style.scss'
 import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
+import { BNavbar } from 'bootstrap-vue'
+import { BCarousel } from 'bootstrap-vue'
+
+
+
+Vue.component('b-carousel', BCarousel)
+Vue.component('b-navbar', BNavbar)
 
 
 Vue.use(BootstrapVue)
